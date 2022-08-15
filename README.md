@@ -1,6 +1,8 @@
 # PlayFab-Discord-Bot
 A Discord bot that lets you ban people on PlayFab
 
+Just before we begin and you judge my code, I'm still not that good at JS so go easy on me xD
+
 ![](https://user-images.githubusercontent.com/29258204/184665972-e767734d-751b-4cba-91d1-f808422dd099.png)
 
 # Easy to set up
