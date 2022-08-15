@@ -4,6 +4,10 @@ A Discord bot that lets you ban people on PlayFab
 ![](https://user-images.githubusercontent.com/29258204/184665972-e767734d-751b-4cba-91d1-f808422dd099.png)
 
 # Easy to set up
+
+After downloading and unzipping from the release tab, all you have to do is have Node.js installed and then run:
+`npm install discord.js` and `npm install xhr2`
+
 All you have to do is change these 4 variables:
 
 ![](https://user-images.githubusercontent.com/29258204/184667194-87be1ed9-5963-4786-b530-096a9cf65d8b.png)
