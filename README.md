@@ -5,12 +5,16 @@ A Discord bot that lets you ban people on PlayFab
 
 # Easy to set up
 All you have to do is change these 4 variables:
+
 ![](https://user-images.githubusercontent.com/29258204/184667194-87be1ed9-5963-4786-b530-096a9cf65d8b.png)
 
 All of them have comments for explaining how they work, what they do and how to set them up properly
 
 And another one that is optional
+
 ![](https://user-images.githubusercontent.com/29258204/184667261-0ee9a4f4-935a-44ad-873b-f6739f71613b.png)
+
 It's to use different prefixes
+
 ![](https://user-images.githubusercontent.com/29258204/184667016-6cad3602-fc94-457b-b79e-651513ad9d3e.png)
 ![](https://user-images.githubusercontent.com/29258204/184667014-16133300-6ca1-463b-9d69-d97cd3539472.png)
