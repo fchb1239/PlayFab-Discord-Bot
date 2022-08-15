@@ -10,7 +10,7 @@ All you have to do is change these 4 variables:
 
 All of them have comments for explaining how they work, what they do and how to set them up properly
 
-There is a 5th variable for prefixes
+There is a 5th variable for changing the prefix
 
 ![](https://user-images.githubusercontent.com/29258204/184667261-0ee9a4f4-935a-44ad-873b-f6739f71613b.png)
 
